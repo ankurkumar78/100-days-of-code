@@ -1,5 +1,7 @@
 # 100 Days Of Code - Log
 
+### Day 1: Jan 24, 2021
+
 ### Day 0: Jan 23, 2021
 
 **Today's Progress**: Started Python Course
