@@ -5,7 +5,7 @@
 1. Configured ipykernel in VS Code for running Jupyter notebooks
 https://code.visualstudio.com/docs/python/jupyter-support-py
 
-2. 
+2. Refreshed Python for Data Types
 
 ### Day 1: Jan 25, 2021
 **Today's Progress**: 
