@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 2: Jan 26, 2021
+**Today's Progress**: 
+1. Configured ipykernel in VS Code for running Jupyter notebooks
+https://code.visualstudio.com/docs/python/jupyter-support-py
+
+2. 
+
 ### Day 1: Jan 25, 2021
 **Today's Progress**: 
 1. Started refreshing Python 
