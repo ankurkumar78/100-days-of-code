@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 3: Jan 28, 2021
+1. Covered Python Basics from https://www.w3schools.com/python/ up to Loops
+Few interesting things of Python:
+ a. For loop's incremental approach: for x in range(2, 30, 3): #increment by 3
+ b. List, Tuple, Dictionary & Set: Tuple concept is different from langs
+ c. Terminary operator of If
+
 ### Day 2: Jan 26, 2021
 **Today's Progress**: 
 1. Configured ipykernel in VS Code for running Jupyter notebooks
