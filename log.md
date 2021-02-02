@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 2: Feb 01, 2021
+### Day 4: Feb 01, 2021
 1. Today covered AWS Amplify instead of Python
 2. Followed tutorial to publish React app with Github repo:
 https://aws.amazon.com/getting-started/hands-on/build-react-app-amplify-graphql/module-one/?e=gs2020&p=build-a-react-app-intro
