@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 5 Feb 06, 2021
+1. Setup FastAPI for Python API
+2. Installed uvicorn and configured on windows:
+py -m uvicorn main:app
+
 ### Day 4: Feb 01, 2021
 1. Today covered AWS Amplify instead of Python
 2. Followed tutorial to publish React app with Github repo:
